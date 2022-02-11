@@ -16,11 +16,11 @@ if s1>=35 and s2>=35 and s3>=35 and s4>=35 and s5>=35 and s6>=35:
      print('A grade')
    elif avg>=71:
      print('B grade')
-   elif avg>=60:
+   elif avg>=61:
      print('C grade')
-   elif avg>=50:
+   elif avg>=51:
      print('D grade')
-   elif avg>=40:
+   elif avg>=41:
      print('E grade')
 else: 
    print('Fail')
